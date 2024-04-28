@@ -1,4 +1,4 @@
-# Code Snippet Manager
+# Code Vault: A Code Snippets Manager
 
 This CLI-based Node.js project simplifies code snippet management. Add, view, and organize snippets seamlessly, enhancing your development workflow.
 
