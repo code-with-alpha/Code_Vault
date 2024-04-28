@@ -13,7 +13,7 @@ This CLI-based Node.js project simplifies code snippet management. Add, view, an
 
 1. **Clone the Repository**: 
 ```bash
-git clone https://github.com/code-with-alpha/Snippets_Manager.git
+git clone https://github.com/code-with-alpha/Code_Vault.git
 ```
 2. **Install Dependencies**: 
 ```bash
