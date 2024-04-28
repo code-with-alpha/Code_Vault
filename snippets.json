@@ -1,0 +1,14 @@
+[
+    {
+        "name": "helloworld-cpp",
+        "code": "cout << \"Hello World\" << endl;"
+    },
+    {
+        "name": "helloworld-py",
+        "code": "print(\"Hello World\")"
+    },
+    {
+        "name": "helloworld-c",
+        "code": "printf(\"Hello World\");"
+    }
+]
